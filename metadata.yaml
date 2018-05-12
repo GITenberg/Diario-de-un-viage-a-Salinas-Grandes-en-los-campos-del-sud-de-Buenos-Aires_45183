@@ -1,0 +1,33 @@
+_repo: Diario-de-un-viage-a-Salinas-Grandes-en-los-campos-del-sud-de-Buenos-Aires_45183
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45183-h/images/cover.jpg
+creator:
+  author:
+    agent_name: García, Pedro Andrés
+    aliases:
+    - Bustamente, Pedro Andrés García de Sobrecasa y García de
+    - Sobrecasa y García de Bustamente, Pedro Andrés García de
+    - De Sobrecasa y García de Bustamente, Pedro Andrés García
+    - Garcia, Pedro Andres
+    - De Bustamente, Pedro Andrés García de Sobrecasa y García
+    birthdate: 1758
+    deathdate: 1833
+    gutenberg_agent_id: '32891'
+    url: http://www.gutenberg.org/2009/agents/32891
+description: ''
+gutenberg_issued: '2014-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45183'
+  lccn: 05041829
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buenos Aires (Argentina : Province) -- Description and travel'
+- !lcc 'F2801'
+title: Diario de un viage a Salinas Grandes, en los campos del sud de Buenos Aires
+url: http://www.gutenberg.org/ebooks/45183
